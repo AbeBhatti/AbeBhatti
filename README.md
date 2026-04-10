@@ -74,7 +74,7 @@ Shared context layer for AI-assisted development teams — think Google Docs for
 
 **Core Stack**
 
-<img src="assets/python.png" width="48" height="48" /> <img src="assets/typescript.png" width="48" height="48" /> <img src="assets/js.svg" width="48" height="48" /> <img src="assets/react.png" width="48" height="48" /> <img src="assets/vercel.png" width="48" height="48" /> <img src="assets/Flask.png" width="48" height="48" /> <img src="assets/fastapi.png" width="48" height="48" />
+<img src="assets/python.png" width="48" height="48" /> <img src="assets/typescript.png" width="48" height="48" /> <img src="assets/js.svg" width="48" height="48" /> <img src="assets/react.png" width="48" height="48" /> <img src="assets/vercel.png" width="48" height="48" /> <img src="assets/Flask.png" width="48" height="48" /> <img src="assets/fastapi.svg" width="48" height="48" />
 
 **AI / ML**
 
