@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:0d1117&height=200&section=header&text=Abraham%20Bhatti&fontSize=48&fontColor=58a6ff&fontAlignY=38&desc=CS%20%40%20Santa%20Clara%20University%20%7C%20AI%20%2F%20ML%20%7C%20Full-Stack&descAlignY=58&descSize=16&descColor=8b949e" width="100%" />
+<img src="assets/banner.svg" width="100%" />
 
 </div>
 
