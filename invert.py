@@ -1,6 +1,6 @@
 from PIL import Image
 
-img = Image.open("vercel.png").convert("RGBA")
+img = Image.open("docker.png").convert("RGBA")
 
 data = img.getdata()
 

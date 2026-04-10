@@ -19,7 +19,7 @@ Currently interning in AI research @ SCU and exploring the frontier of agentic A
 
 ---
 
-## Projects
+## Favorites
 
 <table>
 <tr>
