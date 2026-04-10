@@ -78,9 +78,7 @@ Shared context layer for AI-assisted development teams — think Google Docs for
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> <img alt="HuggingFace" title="HuggingFace" width="48" height="48" src="https://huggingface.co/front/assets/huggingface_logo-nobg.svg" style="background:#FFD21E;border-radius:12px;padding:6px;" />
 
 **Infra & DevOps**
 
