@@ -78,7 +78,9 @@ Shared context layer for AI-assisted development teams — think Google Docs for
 
 **AI / ML**
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/CrewAI-6E3FF3?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/FAISS-0092DF?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 
 **Infra & DevOps**
 
