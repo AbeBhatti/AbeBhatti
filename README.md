@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:0d1117&height=200&section=header&text=Abraham%20Bhatti&fontSize=48&fontColor=58a6ff&fontAlignY=38&desc=CS%20%40%20Santa%20Clara%20University%20%7C%20AI%20%2F%20ML%20%7C%20Full-Stack&descAlignY=58&descSize=16&descColor=8b949e" width="100%" />
 
 </div>
@@ -20,13 +19,13 @@ Currently interning in AI research @ SCU and exploring the frontier of agentic A
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🥇 Power2thePeople
+### Power2thePeople
 **NVIDIA Spark Hackathon 2026 — Winner**
 
 Real-time civil rights assistant running on **NVIDIA DGX Spark** with Nemotron-70B. Deployed via **Meta smart glasses** — live multimodal scene understanding, ASR, and legal RAG pipeline with < 500ms response latency. Detects police misconduct patterns, generates legal reports, and delivers real-time audio guidance on your rights.
@@ -36,7 +35,7 @@ Real-time civil rights assistant running on **NVIDIA DGX Spark** with Nemotron-7
 </td>
 <td width="50%" valign="top">
 
-### 🏆 Play-gent
+### Play-gent
 **PyTorch OpenEnv Hackathon — 4th Place**
 
 Curriculum-trained RL negotiation agent. Extracted human decision-making from **200k+ Diplomacy game states** and **50k poker hands**. Deployed a 1.1B policy model against adversarial 8B LLaMA counterparts with real-time bluff detection, achieving **1.88x capital return**.
@@ -48,7 +47,7 @@ Curriculum-trained RL negotiation agent. Extracted human decision-making from **
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Sentinel SDK
+### Sentinel SDK
 **Continual Learning Hackathon — 2nd Place** *(65+ teams)*
 
 Secure autonomous agent runtime and SDK. Monitors, validates, and sandboxes all CLI tool calls in real time using an async agent loop, dynamic policy enforcement, and LLM-powered threat detection. Integrates with OpenCode + Composio for GitHub threat reporting.
@@ -58,12 +57,12 @@ Secure autonomous agent runtime and SDK. Monitors, validates, and sandboxes all 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Bilingual Learning App
-**AI Research Intern @ Santa Clara University**
+### cntxt
+**Context Cloud — AI Orchestration Platform**
 
-AI-powered bilingual learning platform generating adaptive games, exercises, and tools for English learners. Features personalized study algorithms, gamified progression, and real-time performance feedback across all subjects.
+Shared context layer for AI-assisted development teams — think Google Docs for vibe coding. Enables multi-agent workflows, persistent context across sessions, and seamless orchestration across the full dev stack.
 
-`Python` `FastAPI` `React` `NLP` `Docker` `REST APIs` `Multilingual ML`
+`TypeScript` `Next.js` `Multi-Agent` `LLM Orchestration` `Full-Stack`
 
 </td>
 </tr>
@@ -71,7 +70,7 @@ AI-powered bilingual learning platform generating adaptive games, exercises, and
 
 ---
 
-## 🧠 Skills
+## Skills
 
 **Core Stack**
 
@@ -97,11 +96,15 @@ AI-powered bilingual learning platform generating adaptive games, exercises, and
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AbeBhatti&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" /><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeBhatti&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AbeBhatti&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=58a6ff&currStreakNum=ffffff" />
+
+<br/><br/>
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=AbeBhatti&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" /><img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeBhatti&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
 
 </div>
 
