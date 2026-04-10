@@ -82,7 +82,7 @@ Shared context layer for AI-assisted development teams — think Google Docs for
 
 **Infra & DevOps**
 
-<img src="assets/AWS.png" width="48" height="48" /> <img src="assets/docker.webp" width="48" height="48" /> <img src="assets/linux.svg" width="48" height="48" /> <img src="assets/git.svg" width="48" height="48" /> <img src="assets/vercel.svg" width="48" height="48" /> <img src="assets/gcp.svg" width="48" height="48" />
+<img src="assets/AWS.png" width="48" height="48" /> <img src="assets/docker.webp" width="48" height="48" /> <img src="assets/linux.svg" width="48" height="48" /> <img src="assets/git.svg" width="48" height="48" /> <img src="assets/gcp.svg" width="48" height="48" />
 
 ---
 
