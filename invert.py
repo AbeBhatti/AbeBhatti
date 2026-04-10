@@ -1,6 +1,6 @@
 from PIL import Image
 
-img = Image.open("Flask.png").convert("RGBA")
+img = Image.open("vercel.png").convert("RGBA")
 
 data = img.getdata()
 
