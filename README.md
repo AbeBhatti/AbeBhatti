@@ -74,7 +74,7 @@ Shared context layer for AI-assisted development teams — think Google Docs for
 
 **Core Stack**
 
-<img src="assets/python.png" width="48" height="48" /> <img src="assets/typescript.png" width="48" height="48" /> <img src="assets/js.svg" width="48" height="48" /> <img src="assets/react.png" width="48" height="48" /> <img src="assets/vercel.svg" width="48" height="48" /> <img src="assets/js.svg" width="48" height="48" /> <img src="assets/Flask.webp" width="48" height="48" /> <img src="assets/fastapi.png" width="48" height="48" />
+<img src="assets/python.png" width="48" height="48" /> <img src="assets/typescript.png" width="48" height="48" /> <img src="assets/js.svg" width="48" height="48" /> <img src="assets/react.png" width="48" height="48" /> <img src="assets/vercel.png" width="48" height="48" /> <img src="assets/Flask.png" width="48" height="48" /> <img src="assets/fastapi.png" width="48" height="48" />
 
 **AI / ML**
 
@@ -82,7 +82,7 @@ Shared context layer for AI-assisted development teams — think Google Docs for
 
 **Infra & DevOps**
 
-<img src="assets/AWS.png" width="48" height="48" /> <img src="assets/docker.webp" width="48" height="48" /> <img src="assets/linux.svg" width="48" height="48" /> <img src="assets/git.svg" width="48" height="48" /> <img src="assets/gcp.svg" width="48" height="48" />
+<img src="assets/AWS.png" width="48" height="48" /> <img src="assets/docker.png" width="48" height="48" /> <img src="assets/linux.png" width="48" height="48" /> <img src="assets/git.svg" width="48" height="48" /> <img src="assets/gcp.svg" width="48" height="48" />
 
 ---
 
