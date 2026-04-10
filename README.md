@@ -74,15 +74,15 @@ Shared context layer for AI-assisted development teams — think Google Docs for
 
 **Core Stack**
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,flask,fastapi" />
+<img src="assets/python.png" width="48" height="48" /> <img src="assets/typescript.png" width="48" height="48" /> <img src="assets/js.svg" width="48" height="48" /> <img src="assets/react.png" width="48" height="48" /> <img src="assets/vercel.svg" width="48" height="48" /> <img src="assets/js.svg" width="48" height="48" /> <img src="assets/Flask.webp" width="48" height="48" /> <img src="assets/fastapi.png" width="48" height="48" />
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /> <img src="assets/hf.svg" width="48" height="48" />
+<img src="assets/pytorch.png" width="48" height="48" /> <img src="assets/TenserFlow.png" width="48" height="48" /> <img src="assets/hf.svg" width="48" height="48" />
 
 **Infra & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,vercel,gcp" />
+<img src="assets/AWS.png" width="48" height="48" /> <img src="assets/docker.webp" width="48" height="48" /> <img src="assets/linux.svg" width="48" height="48" /> <img src="assets/git.svg" width="48" height="48" /> <img src="assets/vercel.svg" width="48" height="48" /> <img src="assets/gcp.svg" width="48" height="48" />
 
 ---
 
