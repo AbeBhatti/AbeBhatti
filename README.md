@@ -80,12 +80,16 @@ AI-powered bilingual learning platform generating adaptive games, exercises, and
 **AI / ML**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-&nbsp;
+
+<br/>
+
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-6E3FF3?style=flat-square&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-0092DF?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 
 **Infra & DevOps**
 
@@ -97,9 +101,7 @@ AI-powered bilingual learning platform generating adaptive games, exercises, and
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AbeBhatti&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeBhatti&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AbeBhatti&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" /><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeBhatti&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
 
 </div>
 
