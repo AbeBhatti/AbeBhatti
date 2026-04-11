@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "remotion-banner",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["remotion", "preview", "src/index.tsx"],
+      "port": 3000
+    }
+  ]
+}

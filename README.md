@@ -57,12 +57,12 @@ Secure autonomous agent runtime and SDK. Monitors, validates, and sandboxes all 
 </td>
 <td width="50%" valign="top">
 
-### cntxt
-**Context Cloud — AI Orchestration Platform**
+### ToolForge
+**Llama Lounge x Snowflake x Cerebral Valley Hackathon — 2nd Place**
 
-Shared context layer for AI-assisted development teams — think Google Docs for vibe coding. Enables multi-agent workflows, persistent context across sessions, and seamless orchestration across the full dev stack.
+Autonomous **Planner–Builder–Validator** pipeline that designs, implements, and verifies tools end-to-end. Wired to **150+ third-party integrations** for real-world actions, with **Snowflake** backing persistent storage so validated skills compound across sessions instead of starting cold each run.
 
-`TypeScript` `Next.js` `Multi-Agent` `LLM Orchestration` `Full-Stack`
+`Python` `Multi-Agent` `Snowflake` `LLMs` `Tool Use` `Orchestration`
 
 </td>
 </tr>
