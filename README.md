@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AbeBhatti/AbeBhatti/main/assets/banner.svg" width="100%" />
+# Abraham Bhatti
 
 </div>
 
