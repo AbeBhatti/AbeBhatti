@@ -78,13 +78,11 @@ Autonomous **Planner–Builder–Validator** pipeline that designs, implements, 
 
 ## GitHub Stats
 
+---
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AbeBhatti&theme=transparent&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=4a9eba&dates=4a9eba&sideNums=00b4d8&currStreakNum=ffffff&stroke=1a3a4a" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbeBhatti&theme=github_dark" />
+[![Portfolio](https://img.shields.io/badge/See%20My%20Work-abrahambhatti.vercel.app-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://abrahambhatti.vercel.app)
 
 </div>
 
