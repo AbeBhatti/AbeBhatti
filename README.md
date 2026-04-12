@@ -13,7 +13,7 @@ Currently interning in AI research @ SCU and exploring the frontier of agentic A
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abrahambhatti.vercel.app-00b4d8?style=flat-square&logo=vercel&logoColor=white)](https://abrahambhatti.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abraham%20Bhatti-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrahambhatti)
-[![Email](https://img.shields.io/badge/Email-abrahambhatti@icloud.com-1a1a2e?style=flat-square&logo=apple&logoColor=white)](mailto:abrahambhatti@icloud.com)
+
 
 </div>
 
