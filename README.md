@@ -84,7 +84,7 @@ Autonomous **Planner–Builder–Validator** pipeline that designs, implements, 
 
 <br/><br/>
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=AbeBhatti&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=4a9eba" />&nbsp;<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeBhatti&layout=compact&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=4a9eba&langs_count=6" />
+<img height="155" src="https://readme-stats.vercel.app/api?username=AbeBhatti&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=4a9eba" />
 
 </div>
 
