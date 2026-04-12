@@ -76,18 +76,6 @@ Autonomous **Planner–Builder–Validator** pipeline that designs, implements, 
 
 ---
 
-## GitHub Stats
-
----
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/See%20My%20Work-abrahambhatti.vercel.app-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://abrahambhatti.vercel.app)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d1117&height=80&section=footer" width="100%" />
