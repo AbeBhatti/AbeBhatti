@@ -8,8 +8,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abrahambhatti.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abrahambhatti.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abraham%20Bhatti-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrahambhatti)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abrahambhatti.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=00b4d8)](https://abrahambhatti.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abraham%20Bhatti-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8)](https://linkedin.com/in/abrahambhatti)
 
 
 
