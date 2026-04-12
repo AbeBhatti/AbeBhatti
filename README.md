@@ -6,11 +6,6 @@
 
 </div>
 
-<div align="center">
-
-I build **production-grade AI systems** — multi-agent orchestrators, RAG pipelines, multimodal inference engines, and full-stack apps that ship.  
-Currently interning in AI research @ SCU and exploring the frontier of agentic AI.
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-abrahambhatti.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://abrahambhatti.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abraham%20Bhatti-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrahambhatti)
 
