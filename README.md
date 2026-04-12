@@ -31,8 +31,9 @@ Currently interning in AI research @ SCU and exploring the frontier of agentic A
 <tr>
 <td width="50%" valign="top">
 
-### [Power2thePeople](https://github.com/rayyanh192/Power2ThePeople)
-**NVIDIA Spark Hackathon 2026 — Winner**
+**[Power2thePeople](https://github.com/rayyanh192/Power2ThePeople)**
+
+![](https://img.shields.io/badge/NVIDIA%20Spark%20Hackathon%202026-Winner-gold?style=flat-square)
 
 Real-time civil rights assistant running on **NVIDIA DGX Spark** with Nemotron-70B. Deployed via **Meta smart glasses** — live multimodal scene understanding, ASR, and legal RAG pipeline with < 500ms response latency. Detects police misconduct patterns, generates legal reports, and delivers real-time audio guidance on your rights.
 
@@ -41,8 +42,9 @@ Real-time civil rights assistant running on **NVIDIA DGX Spark** with Nemotron-7
 </td>
 <td width="50%" valign="top">
 
-### [Play-gent](https://github.com/AbeBhatti/Play-gent)
-**PyTorch OpenEnv Hackathon — 4th Place**
+**[Play-gent](https://github.com/AbeBhatti/Play-gent)**
+
+![](https://img.shields.io/badge/PyTorch%20OpenEnv%20Hackathon-4th%20Place-00b4d8?style=flat-square)
 
 Curriculum-trained RL negotiation agent. Extracted human decision-making from **200k+ Diplomacy game states** and **50k poker hands**. Deployed a 1.1B policy model against adversarial 8B LLaMA counterparts with real-time bluff detection, achieving **1.88x capital return**.
 
@@ -53,8 +55,9 @@ Curriculum-trained RL negotiation agent. Extracted human decision-making from **
 <tr>
 <td width="50%" valign="top">
 
-### [Sentinel SDK](https://github.com/yashy10/Sentinel-SDK)
-**Continual Learning Hackathon — 2nd Place** *(65+ teams)*
+**[Sentinel SDK](https://github.com/yashy10/Sentinel-SDK)**
+
+![](https://img.shields.io/badge/Continual%20Learning%20Hackathon-2nd%20Place-silver?style=flat-square)
 
 Secure autonomous agent runtime and SDK. Monitors, validates, and sandboxes all CLI tool calls in real time using an async agent loop, dynamic policy enforcement, and LLM-powered threat detection. Integrates with OpenCode + Composio for GitHub threat reporting.
 
@@ -63,8 +66,9 @@ Secure autonomous agent runtime and SDK. Monitors, validates, and sandboxes all 
 </td>
 <td width="50%" valign="top">
 
-### [ToolForge](https://github.com/rshiramss/tool_forge)
-**Llama Lounge x Snowflake x Cerebral Valley Hackathon — 2nd Place**
+**[ToolForge](https://github.com/rshiramss/tool_forge)**
+
+![](https://img.shields.io/badge/Llama%20Lounge%20x%20Snowflake%20x%20Cerebral%20Valley-2nd%20Place-silver?style=flat-square)
 
 Autonomous **Planner–Builder–Validator** pipeline that designs, implements, and verifies tools end-to-end. Wired to **150+ third-party integrations** for real-world actions, with **Snowflake** backing persistent storage so validated skills compound across sessions instead of starting cold each run.
 
