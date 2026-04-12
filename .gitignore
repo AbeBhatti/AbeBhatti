@@ -1,0 +1,7 @@
+remotion-banner/
+.claude/
+.DS_Store
+*.py
+venv/
+*.png
+*.svg
