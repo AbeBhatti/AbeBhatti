@@ -8,8 +8,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abrahambhatti.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://abrahambhatti.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abraham%20Bhatti-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrahambhatti)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abrahambhatti.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abrahambhatti.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abraham%20Bhatti-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrahambhatti)
 
 
 
@@ -65,11 +65,4 @@ Autonomous **Planner–Builder–Validator** pipeline that designs, implements, 
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/See%20My%20Work-abrahambhatti.vercel.app-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://abrahambhatti.vercel.app)
-
 </div>
